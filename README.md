@@ -1,5 +1,5 @@
 # Objective
-Get all files that could possibly be or be relating to a school exam document.
+Get all files in the directories.
 
 ## Malware Info
 Type - Trojan
@@ -9,6 +9,7 @@ Type - Trojan
 
 ## Warnings
 --- Do not include this file in the finalized project.
+--- stash directory is visible, it must be hidden.
 
 ## Prerequisites
 --- USB stick.
