@@ -1,19 +1,19 @@
 # Objective
 Get all files that could possibly be or be relating to a school exam document.
 
-# Malware Info
+## Malware Info
 Type - Trojan
 
-# Weak Points
+## Weak Points
 --- On Windows a shortcut is being used to launch the executable, therefore there is a visible shortcut mark.
 
-# Warnings
+## Warnings
 --- Do not include this file in the finalized project.
 
-# Prerequisites
+## Prerequisites
 --- USB stick.
 --- Dummy file.
 
-# Course of Action
+## Course of Action
 --- Get permission to print a document.
 --- Connect and execute.
