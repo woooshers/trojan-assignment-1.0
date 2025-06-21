@@ -1,5 +1,5 @@
 ## Objective
-Get all files in the target directories.
+Get all files from the target directories.
 
 ## Malware Info
 Type - Trojan
